@@ -1,0 +1,7 @@
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\bin\Debug\AnimalSOunds.exe.config
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\bin\Debug\AnimalSOunds.exe
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\bin\Debug\AnimalSOunds.pdb
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\obj\Debug\AnimalSOunds.csproj.AssemblyReference.cache
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\obj\Debug\AnimalSOunds.csproj.CoreCompileInputs.cache
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\obj\Debug\AnimalSOunds.exe
+C:\Users\nsteavu\Desktop\MASTER\medii si platfrome avasnate de programare\proiectAnimale\AnimalSOunds\AnimalSOunds\obj\Debug\AnimalSOunds.pdb
